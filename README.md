@@ -41,7 +41,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Benseddik-Fethi/Benseddik-Fethi/output/snake.svg" alt="Snake animation" />
-
-###
